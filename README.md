@@ -24,7 +24,7 @@ Install dependencies:
 pip install numpy scipy
 
 Run the script 
-copy the code and run in any python compiler.
+copy the code and run in Jupyter Notebook.
 
 
  Notes
